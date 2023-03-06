@@ -144,5 +144,5 @@ ICMP traffic observation from perpetual ping and ICMP traffic stop after inbound
 </p>
 <br />
 
-
+Thank You for looking! For more, visit my [blog](https://exemplarysecurity.com/0
 
