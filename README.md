@@ -33,7 +33,7 @@ In this tutorial I analyze and observe various network traffic protocols between
 <br />
 <br />
 
-1.b Give it a name (click review and create)
+1.b Give it a name (click review and create).
 
 <p>
 <img src="https://imgur.com/gYES8J8.png alt"Resource Group"/?
@@ -57,30 +57,42 @@ In this tutorial I analyze and observe various network traffic protocols between
 <br />
 <br />
 
-- Step 2.a - Create two Virtual Machines. One Windows and one Linux (as displayed below)
+Step 2.a - Create two Virtual Machines. One Windows and one Linux (as displayed below).
 
 <p>
 <img src="https://imgur.com/q4UtpZY.png alt"Rescource Group"/?
 </p>
-
+<br />
+<br />  
+  
+2b. Choose the resource group, name, region and operating system for the VM. Then click review and create.
 <p>
 <img src="https://imgur.com/CWIg88Z.png alt"Rescource Group"/?
 </p>
-
+<br />
+<br />                                                            
+                                                            
+2c. Choose the size, create a username and password, click the confirm box then click review and create. 
 <p>
 <img src="https://imgur.com/pRi6kbD.png alt"Rescource Group"/?
 </p>
-
+<br />
+<br />
+  
+2d. Also create a VM using Ubuntu as the operating system
 <p>
 <img src="https://imgur.com/Gcv021M.png alt"Rescource Group"/?
 </p>
-
+<br />                                                            
+<br />
+                                                            
+2e. The virtual machine has been created                                                            
 <p>
 <img src="https://imgur.com/C1z2KlR.png alt"Rescource Group"/?
 </p>
 
 
-- Step 3 - Log in to VM1 using it's ip address
+Step 3 - Log in to VM1 using it's ip address
 
 <p>
 <img src="https://imgur.com/pzsx4Xn.png alt"Rescource Group"/?
@@ -89,9 +101,10 @@ In this tutorial I analyze and observe various network traffic protocols between
 <p>
 <img src="https://imgur.com/Hz2NxI2.png alt"Rescource Group"/?
 </p>
+<br />
+<br />  
 
-
-- Step 4 - Afterlogging in to the VM, navigate to Microsoft Edge and install Wireshark 
+Step 4 - After logging in to the VM, navigate to Microsoft Edge and install Wireshark 
 
 <p>
 <img src="https://imgur.com/clrmTgG.png alt"Rescource Group"/?
@@ -100,7 +113,12 @@ In this tutorial I analyze and observe various network traffic protocols between
 <p>
 <img src="https://imgur.com/plnj4UI.png alt"Rescource Group"/?
 </p>
-
+<br />
+<br />
+Now that you have logged in you can continue on to the traffic observation steps detailed below.
+<br />
+<br />
+<br />  
 
 
 <h2>Actions and Observations</h2>
