@@ -8,11 +8,11 @@ In this tutorial I demonstrate the various network traffic to and from Azure Vir
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+- Microsoft Azure (Virtual Machines)
+- Remote Desktop Protocol
+- Various Command-Line Tools 
+- Network Protocols (SSH, RDH, DNS, ICMP, DHCP)
+- Wireshark (network Traffic Analyzer)
 
 <h2>Operating Systems Used </h2>
 
