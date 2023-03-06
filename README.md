@@ -57,7 +57,7 @@ In this tutorial I demonstrate the various network traffic to and from Azure Vir
 <br />
 <br />
 
-- Step 2 - Create two Virtual Machines. One Windows and one Linux (as displayed below)
+- Step 2.a - Create two Virtual Machines. One Windows and one Linux (as displayed below)
 
 <p>
 <img src="https://imgur.com/q4UtpZY.png alt"Rescource Group"/?
@@ -105,7 +105,7 @@ In this tutorial I demonstrate the various network traffic to and from Azure Vir
 
 <h2>Actions and Observations</h2>
 
-Below is RDP traffic observation after filtering for RDP traffic in Wireshark 
+Below is RDP (Remote Desktop Protocol) traffic observation after filtering for RDP traffic in Wireshark 
 
 <p>
 <img src="https://imgur.com/CHAA6zi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -113,7 +113,7 @@ Below is RDP traffic observation after filtering for RDP traffic in Wireshark
 <br />
 
 
-Below is DHCP traffic observation using Wireshark
+Below is DHCP (Dynamic Host Control Protocol) traffic observation using Wireshark
 
 <p>
 <img src="https://imgur.com/Gi74JxZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -121,7 +121,7 @@ Below is DHCP traffic observation using Wireshark
 <br />
 
 
-Below is DNS traffic observation using Wireshark
+Below is DNS (Domain Name System) traffic observation using Wireshark
 
 <p>
 <img src="https://imgur.com/NQQTI7C.png " height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -129,7 +129,7 @@ Below is DNS traffic observation using Wireshark
 <br />
 
 
-Below is SSH traffic observation using Wireshark
+Below is SSH (Secure Shell) traffic observation using Wireshark
 
 <p>
 <img src="https://imgur.com/2lxIu4v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -137,7 +137,7 @@ Below is SSH traffic observation using Wireshark
 <br />
 
 
-Below are the steps for ICMP traffic observation from perpetual ping and ICMP traffic stop after the inbound firewall rule is set 
+Below are the steps for ICMP (nternet Control Message Protocol) traffic observation from a perpetual ping and ICMP traffic stop after the inbound firewall rule is set 
 <br />
 1. Set the perpetual ping comand to ping VM2 and observe the ICMP traffic
 <p>
@@ -156,6 +156,7 @@ Below are the steps for ICMP traffic observation from perpetual ping and ICMP tr
 
 
 3. Observe the ping request times out after the firewall rule was put in place
+(*note - The ping request timed out due to the ICMP traffic being denied as the firewall rule blocked the traffic)
 <p>
 <img src="https://imgur.com/dMWGgWi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
