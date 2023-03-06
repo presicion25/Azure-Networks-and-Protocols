@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://flic.kr/p/2oktM5A alt="Traffic Examination"/>
+<img src="h[url=https://flic.kr/p/2oktM5A][img]https://live.staticflickr.com/65535/52728974534_c03e4b30e8_z.jpg[/img][/url][url=https://flic.kr/p/2oktM5A]AzureVMTraffic1[/url] by [url=https://www.flickr.com/photos/63844820@N04/]Presicion25[/url], on Flickr alt="Traffic Examination"/>
 </p>
 
 <h1>Azure Network Security Groups (NSGs) and Inspecting Traffic among Azure Virtual Machines</h1>
