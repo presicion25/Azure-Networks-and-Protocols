@@ -2,17 +2,21 @@
 <img src="https://imgur.com/RTZL0Ru.png alt="Traffic Examination"/>
 </p>
 
-<h1>Azure Network Security Groups (NSGs) and Inspecting Traffic among Azure Virtual Machines</h1>
+<h1>Azure Virtual Machines Traffic Inspection</h1>
 In this tutorial I demonstrate the various network traffic to and from Azure Virtual Machines with Wireshark as well as exploring Network Security Groups. <br />
 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines)
-- Remote Desktop Protocol
-- Various Command-Line Tools 
-- Network Protocols (SSH, RDH, DNS, ICMP, DHCP)
-- Wireshark (network Traffic Analyzer)
+- Microsoft Azure (Virtual Machines) abbreviated VM. VMs are used to install the software that is used to analyze the traffic being sent.
+
+- Remote Desktop Protocol (RDP) is used to connect to the virtual machines and it is one type of traffic observed in wireshark. 
+
+- Various Command-Line Tools are used such as Command Prompt for ping commands and Powershell to ssh into the second virtual machine.
+
+- Network Protocols (SSH, RDH, DNS, ICMP, DHCP) are observed in wireshark as both VMs communicate with each other under various commands.
+
+- Wireshark is the network traffic analyzer used to observe the different types of traffic being sent between both VMs.
 
 <h2>Operating Systems Used </h2>
 
@@ -26,26 +30,32 @@ In this tutorial I demonstrate the various network traffic to and from Azure Vir
 <p>
 <img src="https://imgur.com/RR14RE3.png alt"Resource Group"/?
 </p>
-
+<br />
+<br />
 
 1.b Give it a name (click review and create)
 
 <p>
 <img src="https://imgur.com/gYES8J8.png alt"Resource Group"/?
 </p>
-
+<br />
+<br />
 
 1.c Then click create and wait a few moments....
 
 <p>
 <img src="https://imgur.com/CwSfMjG.png alt"Resource Group"/?
 </p>
+<br />
+<br />
 
 1.d The Resource Group is Created
 
 <p>
 <img src="https://imgur.com/gfKydDa.png alt"Rescource Group"/?
 </p>
+<br />
+<br />
 
 - Step 2 - Create two Virtual Machines. One Windows and one Linux (as displayed below)
 
