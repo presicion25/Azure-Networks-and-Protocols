@@ -105,7 +105,7 @@ In this tutorial I demonstrate the various network traffic to and from Azure Vir
 
 <h2>Actions and Observations</h2>
 
-RDP Traffic Observation after filtering for RDP traffic in Wireshark 
+Below is RDP traffic observation after filtering for RDP traffic in Wireshark 
 
 <p>
 <img src="https://imgur.com/CHAA6zi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -113,7 +113,7 @@ RDP Traffic Observation after filtering for RDP traffic in Wireshark
 <br />
 
 
-DHCP traffic observation using Wireshark
+Below is DHCP traffic observation using Wireshark
 
 <p>
 <img src="https://imgur.com/Gi74JxZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -121,7 +121,7 @@ DHCP traffic observation using Wireshark
 <br />
 
 
-DNS traffic observation using Wireshark
+Below is DNS traffic observation using Wireshark
 
 <p>
 <img src="https://imgur.com/NQQTI7C.png " height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -129,7 +129,7 @@ DNS traffic observation using Wireshark
 <br />
 
 
-SSH traffic observation using Wireshark
+Below is SSH traffic observation using Wireshark
 
 <p>
 <img src="https://imgur.com/2lxIu4v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -137,7 +137,7 @@ SSH traffic observation using Wireshark
 <br />
 
 
-ICMP traffic observation from perpetual ping and ICMP traffic stop after inbound firewall rule set 
+Below are the steps for ICMP traffic observation from perpetual ping and ICMP traffic stop after the inbound firewall rule is set 
 <br />
 1. Set the perpetual ping comand to ping VM2 and observe the ICMP traffic
 <p>
