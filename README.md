@@ -3,7 +3,7 @@
 </p>
 
 <h1>Azure Virtual Machines Traffic Inspection</h1>
-In this tutorial I analyze and observe various network traffic protocols between Azure Virtual Machines with Wireshark. <br />
+In this tutorial I analyze and observe various network traffic protocols between Azure Virtual Machines with Wireshark. This is a great excercise for anyone who seeks to learn about and observe network traffic in a controlled environment.  <br />
 
 
 <h2>Environments and Technologies Used</h2>
