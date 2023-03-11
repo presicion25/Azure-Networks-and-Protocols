@@ -24,7 +24,7 @@ In this tutorial I analyze and observe various network traffic protocols between
 - Ubuntu Server 20.04
 
 <h2>Pre-Requisites</h2>
-    -Creating the virtual machines                                                             
+<h2>Creating the virtual machines<h2/>                                                             
 
 - Step 1.a - After signing in to your Azure account, go into Resource Groups and create a Resource Group.
 
