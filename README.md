@@ -124,6 +124,8 @@ Now that you have logged in you can continue on to the traffic observation steps
 
 <h2>Actions and Observations</h2>
 These observations are made by inputting commands that corresond to the type of traffic one wishies to observe and then filtering Wireshark by the corresponding traffic type.
+<br />
+<br />
 
 Below is RDP (Remote Desktop Protocol) traffic observation after filtering for RDP traffic in Wireshark 
 
