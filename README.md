@@ -91,7 +91,8 @@ Step 2.a - Create two Virtual Machines. One Windows and one Linux (as displayed 
 <p>
 <img src="https://imgur.com/C1z2KlR.png alt"Rescource Group"/?
 </p>
-
+<br />                                                            
+<br />
 
 Step 3 - Log in to VM1 using it's ip address
 
