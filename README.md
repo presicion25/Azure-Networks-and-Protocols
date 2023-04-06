@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://imgur.com/RTZL0Ru.png alt="Traffic Examination"/>
+<img src="https://imgur.com/RTZL0Ru.png alt="Traffic Examination"/>  
 </p>
 
-<h1>Azure Virtual Machines Traffic Inspection</h1>
+<h1>Azure Virtual Machines Traffic Inspection (March 2023)</h1>
 In this tutorial I analyze and observe various network traffic protocols between Azure Virtual Machines with Wireshark. This is a great excercise for anyone who seeks to learn about and observe network traffic in a controlled environment.  <br />
 
 
